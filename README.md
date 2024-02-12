@@ -1,6 +1,6 @@
 # Typeople
 
-Please vist the site at https://typeople.webflow.io
+Please vist the site at https://typeople.fuzzco.com
 
 An experiment by the font scientists at Pretend Foundry in collaboration with the creative people at Fuzzco.
 
